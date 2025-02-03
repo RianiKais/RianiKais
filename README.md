@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 About Me  
+#  About Me  
 
 **PhD Candidate in Computer and Information Science | Machine Learning & AI Researcher | Thermal Imaging Specialist**  
 
