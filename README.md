@@ -48,7 +48,6 @@ Hello! I'm **Kais Riani**, a PhD candidate specializing in **thermal imaging, ma
 - Developed **PyraSegNet**, a **hybrid InceptionV4-based** deep learning model for **thermal facial region segmentation**.  
 - Segmented **five facial regions**: whole face, forehead, eyes, cheeks, and nose.  
 - Achieved robust performance despite **occlusions (glasses, masks)** and variations in thermal signatures.  
-- Fine-tuning **SAM 2** to further enhance segmentation accuracy.  
 
 ### **T5050-FR: A Robust Annotated Thermal Facial Dataset**  
 - Created **T5050-FR**, a dataset with **126 training, 20 validation, and 17 test subjects**.  
