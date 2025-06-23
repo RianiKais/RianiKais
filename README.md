@@ -4,7 +4,7 @@
 
 **PhD Candidate in Computer and Information Science | Machine Learning & AI Researcher | Thermal Imaging Specialist**  
 
-Hello! I'm **Kais Riani**, a **PhD candidate** at the **University of Michigan**, specializing in **machine learning, thermal imaging, and human behavior analysis**. My research focuses on **AI-driven circadian rhythm modeling, thermal facial landmark detection, and non-contact physiological signal extraction**. With experience collaborating with **Toyota Research Institute and Ford Motor Company**, I design **multimodal AI systems** for **autonomous systems, healthcare, and security applications**.  
+Hello! I'm **Kais Riani**, a **Machine Learning Engineer** at **Astemo**, specializing in **machine learning, thermal imaging, and human behavior analysis**. My research focuses on **AI-driven circadian rhythm modeling, thermal facial landmark detection, and non-contact physiological signal extraction**. With experience collaborating with **Toyota Research Institute and Ford Motor Company**, I design **multimodal AI systems** for **autonomous systems, healthcare, and security applications**.  
 
 ---
 
